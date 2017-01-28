@@ -67,7 +67,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<table class="table table-striped table-hover table-timeline">
 							<tr>
 								<td>
-									<img src="<?=base_url('/assets/images/user1.jpg')?>" height="45px" width="45px">
+									<img src="<?=base_url('/assets/images/user1.jpg')?>" height="45px" width="45px" title="Januar Muhtadiin">
 								</td>
 								<td>
 									<img src="<?=base_url('/assets/images/user1.jpg')?>" height="45px" width="45px">
