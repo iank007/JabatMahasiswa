@@ -1,0 +1,60 @@
+/*!
+ *   Style v0.1
+ *   Author: Januar Muhtadiin
+ *	 Website: -
+ *   License: -
+ *           Please email dream.muhtadiin@gmail.com for more information
+!*/
+
+/* menu tab */
+
+div.multiple {
+	font: bold;
+	position: relative;
+	padding: 0;
+}
+
+div.multiple .left {
+	width: 50%;
+	float: left;
+	cursor: pointer;
+}
+
+div.multiple .right {
+	width: 50%;
+	float: right;
+	cursor: pointer;
+}
+
+div.multiple div {
+	padding: 5px 0 6px 0;
+}
+
+div.multiple div:hover {
+	background-color: lightgray;
+}
+
+div.multiple div:active {
+	position: relative;
+	top: 1px;
+}
+
+table.table-timeline {
+	table-layout: fixed;
+}
+
+table.table-timeline td {
+	word-wrap: break-word;
+}
+
+/* ul li */
+.horizontal {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.horizontal li {
+	float:left;
+}
